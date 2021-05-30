@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @milukeli
-- 👀 I’m interested in network/system administration
+- 👀 I’m interested in network and system administration.
 - 🌱 I’m currently learning...  
 
 <!---
