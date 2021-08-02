@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milukeli
-- 👀 I’m mostly interested in network and system administration.
-- 🌱 I’m learning...  
+- 👀 Jobwise, mostly interested in network and system administration.
+- 🌱 ...  
 
 <!---
 milukeli/milukeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
