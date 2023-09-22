@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @milukeli
-- 👀 Interested in bunch of DevOps stuff, but mostly Ops 🌱.
+👋 
+
+👀 Interested in bunch of DevOps stuff, but mostly Ops 🌱
 
 - **DevOps Engineer**
   - *Feb 2023 – Present* at Vega IT Omega (Montenegro)
