@@ -22,7 +22,6 @@
     </style>
 </head>
 <body>
-    <h1>Job Titles and Durations</h1>
     <div class="job-title">DevOps Engineer</div>
     <div class="job-duration">Feb 2023 – Present at Vega IT (Montenegro)</div>
     
