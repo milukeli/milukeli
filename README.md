@@ -1,20 +1,19 @@
 - 👋 Hi, I’m @milukeli
-- 👀 Interested in bunch of DevOps stuff, but mostly Ops.
-- 🌱 ...  
+- 👀 Interested in bunch of DevOps stuff, but mostly Ops 🌱.
 
 - **DevOps Engineer**
-  - *Feb 2023 – Present* at Vega IT (Montenegro)
+  - *Feb 2023 – Present* at Vega IT Omega (Montenegro)
 
 - **Network Engineer**
   - *Dec 2021 – Feb 2023* at Picnic Technologies (Netherlands)
 
-- **IP Core & Enterprise Network Specialist**
+- **IP Core & Enterprise Network Administrator**
   - *Jul 2019 - Dec 2021* at Telenor (Montenegro)
 
-- **IT Specialist**
+- **System Administrator**
   - *Dec 2017 - Jul 2019* at Portonovi (Montenegro)
 
-- **CNOC Specialist**
+- **Network Operation Center Engineer**
   - *Nov 2014 - Aug 2017* at Telenor Common Operation (Montenegro)
 
 - **System Administrator Intern**
