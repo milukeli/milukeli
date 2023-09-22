@@ -21,4 +21,4 @@
   - *Jan 2014 - Oct 2014* at Ministry of Internal Affairs (Montenegro)
 
 - **Computer Repair Technician**
-  - *2009 - 2011* as Self-employed (Montenegro)
+  - *2009 - 2011* (Montenegro)
