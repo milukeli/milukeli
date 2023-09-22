@@ -8,7 +8,7 @@
 - **Network Engineer**
   - *Dec 2021 – Feb 2023* at Picnic Technologies (Netherlands)
 
-- **IP Core & Enterprise Network Administrator**
+- **IP Core & Enterprise Network Specialist**
   - *Jul 2019 - Dec 2021* at Telenor (Montenegro)
 
 - **System Administrator**
