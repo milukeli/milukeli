@@ -22,11 +22,11 @@
     </style>
 </head>
 <body>
-    <div class="job-title">DevOps Engineer</div>
-    <div class="job-duration">Feb 2023 – Present at Vega IT (Montenegro)</div>
+    <div class="job-title">DevOps Engineer,Network Engineer</div>
+    <div class="job-duration">Feb 2023 – Present at Vega IT (Montenegro),Dec 2021 – Feb 2023 at Picnic Technologies (Netherlands)</div>
     
-    <div class="job-title">Network Engineer</div>
-    <div class="job-duration">Dec 2021 – Feb 2023 at Picnic Technologies (Netherlands)</div>
+    <div class="job-title"></div>
+    <div class="job-duration"></div>
     
     <div class="job-title">IP Core & Enterprise Network Specialist</div>
     <div class="job-duration">Jul 2019 - Dec 2021 at Telenor (Montenegro)</div>
