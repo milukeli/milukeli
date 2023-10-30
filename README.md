@@ -1,6 +1,6 @@
-👋 
+👋 Hiya
 
-👀 Interested in bunch of DevOps stuff, but mostly Ops 🌱
+👀 Electrical engineer in IT 🌱
 
 - **DevOps Engineer**
   - *Feb 2023 – Present* at Vega IT Omega (Montenegro)
