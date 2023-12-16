@@ -3,7 +3,7 @@
 👀 Electrical engineer in IT 🌱
 
 - **DevOps Engineer**
-  - *Feb 2023 – Present* at Vega IT Omega (Montenegro)
+  - *Feb 2023 – December* at Vega IT Omega (Montenegro)
 
 - **Network Engineer**
   - *Dec 2021 – Feb 2023* at Picnic Technologies (Netherlands)
