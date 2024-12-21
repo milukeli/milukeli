@@ -15,7 +15,7 @@
   - *Jul 2019 - Dec 2021* at Telenor (Podgorica, Montenegro)
 
 - **System Administrator**
-  - *Dec 2017 - Jul 2019* at Portonovi (Herceg Novi,Montenegro)
+  - *Dec 2017 - Jul 2019* at Portonovi Resort (Herceg Novi,Montenegro)
 
 - **Network Operation Center Engineer**
   - *Nov 2014 - Aug 2017* at Telenor Common Operation (Podgorica, Montenegro)
