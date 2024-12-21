@@ -19,6 +19,3 @@
 
 - **Network Operation Center Engineer**
   - *Nov 2014 - Aug 2017* at Telenor (Podgorica, Montenegro)
-
-- **System Administrator Intern**
-  - *Jan 2014 - Oct 2014* at Ministry of Internal Affairs (Podgorica, Montenegro)
