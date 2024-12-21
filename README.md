@@ -2,7 +2,7 @@
 
 👀 Electrical engineer in IT 🌱
 
-- **Freelance Network/System Engineer**
+- **Freelance Network/System Administrator**
   - *Jan 2024 – Present* (all over the place)
 
 - **DevOps Engineer**
