@@ -18,4 +18,4 @@
   - *Dec 2017 - Jul 2019* at Portonovi (Herceg Novi,Montenegro)
 
 - **Network Operation Center Engineer**
-  - *Nov 2014 - Aug 2017* at Telenor (Podgorica, Montenegro)
+  - *Nov 2014 - Aug 2017* at Telenor Common Operation (Podgorica, Montenegro)
